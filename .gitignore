@@ -2,3 +2,4 @@
 .idea
 /target/
 GPA_Calculator.iml
+.DS_Store
