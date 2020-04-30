@@ -10,14 +10,14 @@
 
 ### Prerequisites 
 - **Java 11 minimum is required** - [Oracle Java SE Downloads](https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html)
-- **Maven is required** - [Maven Apache Download] (https://maven.apache.org/download.cgi)
-    - Here is a good [guide] (https://www.baeldung.com/install-maven-on-windows-linux-mac) from Baeldung for installation.
+- **Maven is required** - [Maven Apache Download](https://maven.apache.org/download.cgi)
+    - Here is a good [guide](https://www.baeldung.com/install-maven-on-windows-linux-mac) from Baeldung for installation.
     - Another option through Homebrew is:
         - ``brew update``
         - ``brew install maven`` 
         - ``mvn version``
 
-Once the prerequisites have been met, simply clone the repository or download it as a ``zip`` file from the button above. Import the project into your IDE as a Maven project and run the main method (``App.java``) to start the program. [Here] (https://www.youtube.com/watch?v=iWfIR2nc69A) is a quick YouTube video that runs through importing a project in IntelliJ. If you encounter any errors, rebuild the project first and try again.
+Once the prerequisites have been met, simply clone the repository or download it as a ``zip`` file from the button above. Import the project into your IDE as a Maven project and run the main method (``App.java``) to start the program. [Here](https://www.youtube.com/watch?v=iWfIR2nc69A) is a quick YouTube video that runs through importing a project in IntelliJ. If you encounter any errors, rebuild the project first and try again.
 
 Note the project comes with a Maven launch plugin that creates a ``launch.sh`` script in the target folder that can be used to launch the project through the terminal once it's been build. However this will only work in unix systems, and you will need to tweak the launch file/plugin to work in Windows.
 
