@@ -47,4 +47,4 @@ You also have the option to sort the table by each heading column, to see course
 ![image6](images/image6.png)
 
 ## License
-Open source under terms of MIT license.
+Open source under terms of MIT [license](/LICENSE).
