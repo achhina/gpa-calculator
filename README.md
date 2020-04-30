@@ -3,6 +3,7 @@
 ## Description
 
 > Using the GPA calculator in this project you are able to quickly convert letter grades from courses to various different GPA grading scales. You also have the option to view your cumulative GPA for these different scales, as well as save your current table data as a ``csv`` file and open it at a future time.
+>
 > Currently it natively supports standard 4.0 scale, as well as York University 9.0 scale, Ryerson 4.33 scale, and UofT's 4.0 scale.
 
 ## Installation
