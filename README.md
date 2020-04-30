@@ -9,7 +9,7 @@
 ## Installation
 
 ### Prerequisites 
-- ** Java 11 minimum is required** - [Oracle Java SE Downloads](https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html)
+- **Java 11 minimum is required** - [Oracle Java SE Downloads](https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html)
 - **Maven is required** - [Maven Apache Download] (https://maven.apache.org/download.cgi)
     - Here is a good [guide] (https://www.baeldung.com/install-maven-on-windows-linux-mac) from Baeldung for installation.
     - Another option through Homebrew is:
